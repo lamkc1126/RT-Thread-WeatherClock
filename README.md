@@ -34,7 +34,7 @@ Netutils：RT-Thread 网络小工具集
 4.NTP客户端: 通过NTP客户端，联网获取实时时间信息。  
 5.WiFi模组通信: 利用 RW007 WiFi 模组将传感数据和滑条信息上传到云端界面显示。
 
-##五、成果展示
+## 五、成果展示
 
 LCD时钟  
 ![时钟版面.jpg](https://oss-club.rt-thread.org/uploads/20230725/02f0f3356acb4c95d8d6924e27407d2f.jpg.webp)  
